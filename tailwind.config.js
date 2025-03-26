@@ -2,7 +2,11 @@
 export default {
    content: ["./src//*.{html,js}"],
    theme: {
-     extend: {},
+     extend: {
+      fontFamily: {
+        hand: ["Patrick Hand", "cursive"],
+      },
+     },
 screens: {
       'lg': '640px',  // Desktops
   },
