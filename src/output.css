@@ -562,16 +562,8 @@ video {
   align-items: center;
 }
 
-.items-baseline {
-  align-items: baseline;
-}
-
 .justify-between {
   justify-content: space-between;
-}
-
-.gap-10 {
-  gap: 2.5rem;
 }
 
 .gap-7 {
@@ -583,16 +575,6 @@ video {
   background-color: rgb(119 17 221 / var(--tw-bg-opacity, 1));
 }
 
-.px-\[\] {
-  padding-left: ;
-  padding-right: ;
-}
-
-.px-\[10\] {
-  padding-left: 10;
-  padding-right: 10;
-}
-
 .px-\[10\%\] {
   padding-left: 10%;
   padding-right: 10%;
@@ -601,11 +583,6 @@ video {
 .py-5 {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
-}
-
-.text-\[\#1976D2\] {
-  --tw-text-opacity: 1;
-  color: rgb(25 118 210 / var(--tw-text-opacity, 1));
 }
 
 .text-white {
